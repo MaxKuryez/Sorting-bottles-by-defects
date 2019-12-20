@@ -1,0 +1,4 @@
+1.I removed tensorflow. in the keras import, so now it should be able to run on your computer.
+2.Now I store loss and accuracy in files.
+3.I added file Data.slsx, which shows the obtained and desired data.
+4.I changed number of classes from 9 to 8: 7 defective classes and 1 normal class.
